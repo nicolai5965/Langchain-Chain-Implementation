@@ -10,3 +10,11 @@ This repository contains code for text interpretation using OpenAI's models inte
 
 . Sentiment-Based Multi-Chain Processing: Choose a processing chain based on the sentiment of the text (positive, neutral, or negative) to provide tailored responses.
 
+## Features
+
+1. Credential Retrieval: The code provides a function to retrieve API keys from a Google Sheet, making it secure and efficient to use API keys without hardcoding them.
+
+2. Text Interpreter Classes: 
+  . TextInterpreter_SingleChain: Interpret text using LangChain's single chain processing.
+
+
